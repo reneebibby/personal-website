@@ -1,0 +1,30 @@
+
+#animationContainer {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background-color: azure;
+  }
+  .hello{
+    background-color: red;
+  }
+
+  <style>
+  h1 {
+    font-family: "Font1", sans-serif;
+  }
+
+  .my-class {
+    font-family: Arial, sans-serif;
+  }
+
+  #my-id {
+    font-family: "Font1", "Font2", sans-serif;
+  }
+</style>
+
+
+h1 {
+    font-family: "Font1", sans-serif;
+  }
+  
