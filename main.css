@@ -28,3 +28,9 @@ h1 {
     font-family: "Font1", sans-serif;
   }
   
+  <style>
+  body {
+    background-image: url('https://photos.app.goo.gl/KsNsjTBTJvQSvBhv6');
+    background-size: cover; /* Optional: Adjusts the image size to cover the entire background */
+  }
+</style>
